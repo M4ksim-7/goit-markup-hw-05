@@ -492,3 +492,7 @@ img {
 .section-footer-icon-svg {
   fill: #f4f4fd;
 }
+
+.modal {
+  background-color: rgba(46, 47, 66, 0.4);;
+}
